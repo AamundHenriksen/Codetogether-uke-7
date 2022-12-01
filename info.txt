@@ -1,0 +1,21 @@
+-=| Olga-Marie Generator! |=-
+        AKA Bursdagspåminner
+
+        En applikasjon som minner meg på hvem som evt har bursdag i dag,
+        og legger ved en link til Olga Marie Mikaelsen's "Hurra for deg"
+        sammen med navn, alder og discordnavn på bursdagsbarn.
+
+     LINK: https://www.youtube.com/watch?v=F-_TnSAmxpU&ab_channel=PetterWiencke
+
+Det skal være mulig å legge inn flere bursdagsbarn 
+        Dette skal være med av informasjon:
+         - Navn
+         - Fødselsdato & år
+         - Discordnavn (for rask kontakt og OlgaSending)
+
+La det komme et lydvarsel dersom noen har bursdag. 
+        Det skal vises tydlig på skjermen - med navn, hvor mange år
+        personen blir, discordnavn og en link til Olga.
+
+Step vidre (eget prosjekt?): 
+        Discordbot som automatisk sender Olga M. til bursdagsbarnet ;)
